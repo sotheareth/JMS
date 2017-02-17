@@ -21,7 +21,7 @@
  - restart RabbitMQ
  - http://localhost:15672/
  
-###WHEN you want to delete queue from list you need:
+###WHEN you want to delete queue from list you need IN RABBITMQ:
   - browse http://localhost:15672/cli/ to see guide information
   - click Download it from here to download python code 
   and save as "rabbitmqadmin.txt" and put in C:\Program Files\RabbitMQ Server
